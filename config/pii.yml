@@ -1,0 +1,13 @@
+www.lipsy.co.uk:
+  element: '#zoom1'
+  attribute: href
+lipsy.co.uk:
+  element: '#zoom1'
+  attribute: href
+www.toofaced.com:
+  element: img[data-image-main]
+  attribute: src
+toofaced.com:
+  element: img[data-image-main]
+  attribute: src
+    
